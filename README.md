@@ -17,7 +17,7 @@ To get started with this project, you need to have [Node.js](https://nodejs.org/
    git clone https://github.com/Nguyen-Phuong-Anh/INTERVIEWPJ
 
 2. Navigate to the entrance directory
-    
+    cd frontend
 
 3. Install the dependencies
     npm install
