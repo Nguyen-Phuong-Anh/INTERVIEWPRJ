@@ -23,7 +23,7 @@ function Pagination({ props }) {
   };
 
   const lastPage = paginationRange[paginationRange.length - 1];
-  console.log(currentPage);
+  
   return (
     <ul className={cx('pagination-container')}>
       <li
