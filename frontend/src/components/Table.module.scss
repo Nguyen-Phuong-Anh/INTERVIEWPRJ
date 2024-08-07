@@ -1,0 +1,34 @@
+.show {
+    display: inline-block;
+}
+
+.hide {
+    display: none;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+
+    table {
+        width: 600px;
+    }
+
+    th {
+        background-color: #f4f4f4;
+        color: #333;
+        padding: 12px 15px;
+        border-bottom: 2px solid #ddd;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    button {
+        border: none;
+        margin-left: 10px;
+        font-size: 20px;
+        height: 100%;
+        background-color: transparent;
+        cursor: pointer;
+    }
+}
